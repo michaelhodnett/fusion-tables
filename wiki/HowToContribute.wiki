@@ -33,7 +33,9 @@ If you’re using JavaScript, generate the packed version of the javascript (you
   # /toolname/docs/: Create a reference.html file containing directions on how to use your tool.
   # optional] /toolname/examples/: Place an examples of your tool here. For example, if your tool generates HTML, place sample HTML files here.
   # Do an SVN add on the whole /toolname/ folder. Set all the mime-types properly with propset: 
-svn propset svn:mime-type [mime-type] [filename]
+{{{
+svn propset svn:mime-type <mime-type> <filename>
+}}}
   # Do an SVN commit. Wait to hear feedback from the developers in the project.
 
 = How do I add a new library? =
@@ -50,7 +52,9 @@ If you’re using JavaScript, generate the packed version of the javascript (For
   # /libraryname/docs/: Create a reference.html file containing a reference for your library. Link to any relevant examples in the examples folder (see next step).
   # /libraryname/examples/: Put examples in the /examples/ folder. There should be one basic example, and any other examples to show other or advanced usage of the library.
   # Do an SVN add on the whole /libraryname/ folder. Set all the mime-types properly with propset
-svn propset svn:mime-type [mime-type] [filename]
+{{{
+svn propset svn:mime-type <mime-type> <filename>
+}}}
   # Do an SVN commit. Wait to hear feedback from the developers in the project.
 
 If at any point you have questions, email them to the [http://groups.google.com/group/fusion-tables-libraries-samples-tools mailing list].
