@@ -27,10 +27,10 @@ We want to guarantee we have the right to use the code you contribute, and that 
     * /toolname/
     * /toolname/src/
     * /toolname/docs/
-    * *optional* /toolname/examples/
+    * (optional) /toolname/examples/
   # /toolname/src/: Put all your code (html, javascript and css, for example) in the /src/ folder. Make sure it follows our coding style (See [http://groups.google.com/group/fusion-tables-libraries-samples-tools Google's style guide], note that Java should follow standard style guidelines). If you’re using JavaScript, generate the packed version of the JavaScript (you can use [https://developers.google.com/closure/compiler/ Google’s Closure Compiler]).
   # /toolname/docs/: Create a reference.html file containing directions on how to use your tool.
-  # *optional* /toolname/examples/: Place an examples of your tool here. For example, if your tool generates HTML, place sample HTML files here.
+  # (optional) /toolname/examples/: Place an examples of your tool here. For example, if your tool generates HTML, place sample HTML files here.
   # Do an SVN add on the whole /toolname/ folder. Set all the mime-types properly with propset: 
 {{{
 svn propset svn:mime-type <mime-type> <filename>
