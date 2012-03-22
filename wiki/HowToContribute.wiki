@@ -8,8 +8,8 @@ We’re looking for projects that act as either a tool for using Fusion Tables o
 
 To join the project, follow these steps:
 
-  # Sign the Google CLA - scroll down for the easy to sign digital version, no faxing necessary.
-  # Email the Fusion Tables team (mailto: googletables-feedback+kathryn@google.com) with links to code you've developed, and a brief paragraph about why you'd like to contribute to the library.
+  # Sign the [http://code.google.com/legal/individual-cla-v1.0.html Google CLA] - scroll down for the easy to sign digital version, no faxing necessary.
+  # Email the Fusion Tables team (googletables-feedback+kathryn@google.com) with links to code you've developed, and a brief paragraph about why you'd like to contribute to the library.
   # Wait for us to respond that you've been added to the project (or that we need more info).
   # If you haven't used SVN or a versioning system in the past, read up on SVN.
   # Add information about yourself to the DeveloperBios page.
@@ -21,17 +21,17 @@ We want to guarantee we have the right to use the code you contribute, and that 
 
 = How do I add a new tool? =
 
-  # Decide on the name for your tool, as this will determine the folder and file names. If you're not sure, email the mailing list with some ideas.
+  # Decide on the name for your tool, as this will determine the folder and file names. If you're not sure, [http://groups.google.com/group/fusion-tables-libraries-samples-tools email the mailing list] with some ideas.
   # Do an authenticated checkout of the whole project.
   # Create the following folders:
     * /toolname/
     * /toolname/src/
     * /toolname/docs/
     * [optional] /toolname/examples/
-    * /toolname/src/: Put all your code (html, javascript and css, for example) in the /src/ folder. Make sure it follows our coding style (See Google's style guide, note that Java should follow standard style guidelines).
-If you’re using JavaScript, generate the packed version of the javascript (you can use Google’s Closure Compiler).
-    * /toolname/docs/: Create a reference.html file containing directions on how to use your tool.
-    * [optional] /toolname/examples/: Place an examples of your tool here. For example, if your tool generates HTML, place sample HTML files here.
+  # /toolname/src/: Put all your code (html, javascript and css, for example) in the /src/ folder. Make sure it follows our coding style (See [http://groups.google.com/group/fusion-tables-libraries-samples-tools Google's style guide], note that Java should follow standard style guidelines).
+If you’re using JavaScript, generate the packed version of the javascript (you can use [https://developers.google.com/closure/compiler/ Google’s Closure Compiler]).
+  # /toolname/docs/: Create a reference.html file containing directions on how to use your tool.
+  # optional] /toolname/examples/: Place an examples of your tool here. For example, if your tool generates HTML, place sample HTML files here.
   # Do an SVN add on the whole /toolname/ folder. Set all the mime-types properly with propset: 
 svn propset svn:mime-type [mime-type] [filename]
   # Do an SVN commit. Wait to hear feedback from the developers in the project.
@@ -45,15 +45,15 @@ svn propset svn:mime-type [mime-type] [filename]
     * /libraryname/src/
     * /libraryname/docs/
     * /libraryname/examples/
-    * /libraryname/src/: Put the code in the /src/ folder. Make sure it follows our coding style (See Google's style guide, note that Java should follow standard style guidelines).
-If you’re using JavaScript, generate the packed version of the javascript (For example, use Google’s Closure Compiler).
-    * /libraryname/docs/: Create a reference.html file containing a reference for your library. Link to any relevant examples in the examples folder (see next step).
-    * /libraryname/examples/: Put examples in the /examples/ folder. There should be one basic example, and any other examples to show other or advanced usage of the library.
+  # /libraryname/src/: Put the code in the /src/ folder. Make sure it follows our coding style (See [http://code.google.com/p/google-styleguide/ Google's style guide], note that Java should follow standard style guidelines).
+If you’re using JavaScript, generate the packed version of the javascript (For example, use [https://developers.google.com/closure/compiler/ Google’s Closure Compiler]).
+  # /libraryname/docs/: Create a reference.html file containing a reference for your library. Link to any relevant examples in the examples folder (see next step).
+  # /libraryname/examples/: Put examples in the /examples/ folder. There should be one basic example, and any other examples to show other or advanced usage of the library.
   # Do an SVN add on the whole /libraryname/ folder. Set all the mime-types properly with propset
 svn propset svn:mime-type [mime-type] [filename]
   # Do an SVN commit. Wait to hear feedback from the developers in the project.
 
-If at any point you have questions, email them to the mailing list.
+If at any point you have questions, email them to the [http://groups.google.com/group/fusion-tables-libraries-samples-tools mailing list].
 
 = How do I submit a patch or new feature? =
 
@@ -63,4 +63,4 @@ If at any point you have questions, email them to the mailing list.
   # Mark issue as fixed, if there's a relevant issue.
   # Do an SVN commit. Wait to hear feedback from the developers in the project.
 
-If at any point you have questions, email them to the mailing list.
+If at any point you have questions, email them to the [http://www.google.com/url?q=http%3A%2F%2Fgroups.google.com%2Fgroup%2Ffusion-tables-libraries-samples-tools mailing list].
