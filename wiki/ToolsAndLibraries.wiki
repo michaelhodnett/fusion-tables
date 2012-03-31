@@ -8,7 +8,7 @@ Below is a list of the libraries being worked on in this project, with links to 
 Fusion Tables Chart Wizard
 </a></li>
 <li><a href="http://fusion-tables-api-samples.googlecode.com/svn/trunk/FusionTablesLayerWizard/src/index.html">
-Fusion Tables Maps Layer Wizard
+Fusion Tables Maps Layer Builder
 </a></li>
 </ul>
 
