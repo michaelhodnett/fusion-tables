@@ -3,11 +3,13 @@
 Below is a list of the libraries being worked on in this project, with links to their final released versions and their in-development versions.
 
 = Tools =
-<a href="http://fusion-tables-api-samples.googlecode.com/svn/trunk/FusionTablesChartWizard/src/index.html">
+<ul>
+<li><a href="http://fusion-tables-api-samples.googlecode.com/svn/trunk/FusionTablesChartWizard/src/index.html">
 Fusion Tables Chart Wizard
-</a>
-<a href="http://fusion-tables-api-samples.googlecode.com/svn/trunk/FusionTablesLayerWizard/src/index.html">
+</a></li>
+<li><a href="http://fusion-tables-api-samples.googlecode.com/svn/trunk/FusionTablesLayerWizard/src/index.html">
 Fusion Tables Maps Layer Wizard
-</a>
+</a></li>
+</ul>
 
 = Libraries =
