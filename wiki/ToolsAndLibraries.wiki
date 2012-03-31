@@ -6,5 +6,8 @@ Below is a list of the libraries being worked on in this project, with links to 
 <a href="http://fusion-tables-api-samples.googlecode.com/svn/trunk/FusionTablesChartWizard/src/index.html">
 Fusion Tables Chart Wizard
 </a>
+<a href="http://fusion-tables-api-samples.googlecode.com/svn/trunk/FusionTablesLayerWizard/src/index.html">
+Fusion Tables Maps Layer Wizard
+</a>
 
 = Libraries =
