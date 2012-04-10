@@ -12,4 +12,10 @@ Fusion Tables Maps Layer Builder
 </a></li>
 </ul>
 
+= Other open source tools =
+
+<ul>
+<li><a href="http://derekeder.com/searchable_map_template/">Searchable Map Template</a>, by Derek Eder</li>
+</ul>
+
 = Libraries =
