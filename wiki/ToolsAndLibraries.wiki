@@ -13,5 +13,8 @@ Below is a list of the libraries being worked on in this project, with links to 
     * Address search (with variable radius)
     * Geolocation (find me!)
     * and more!
+    * <a href="https://github.com/derekeder/FusionTable-Map-Template">Get the code</a>
+  * <a href="http://shpescape.com">Shape Escape</a><br>Upload your shape files to Fusion Tables
+    * <a href="http://code.google.com/p/shpescape/">View the source code</a>
 
 = Libraries =
