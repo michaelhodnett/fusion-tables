@@ -3,19 +3,15 @@
 Below is a list of the libraries being worked on in this project, with links to their final released versions and their in-development versions.
 
 = Tools =
-<ul>
-<li><a href="http://fusion-tables-api-samples.googlecode.com/svn/trunk/FusionTablesChartWizard/src/index.html">
-Fusion Tables Chart Wizard
-</a></li>
-<li><a href="http://fusion-tables-api-samples.googlecode.com/svn/trunk/FusionTablesLayerWizard/src/index.html">
-Fusion Tables Maps Layer Builder
-</a></li>
-</ul>
+
+  * <a href="http://fusion-tables-api-samples.googlecode.com/svn/trunk/FusionTablesChartWizard/src/index.html">Fusion Tables Chart Wizard</a><br>Create custom charts with your Fusion Tables data! With this tools, you can edit the title, chart type, and other attributes.
+  * <a href="http://fusion-tables-api-samples.googlecode.com/svn/trunk/FusionTablesLayerWizard/src/index.html">Fusion Tables Maps Layer Builder</a><br>Create an interactive map with your Fusion Tables data! Add a drop-down menu or place multiple layers on a map.
 
 = Other open source tools =
 
-<ul>
-<li><a href="http://derekeder.com/searchable_map_template/">Searchable Map Template</a>, by Derek Eder</li>
-</ul>
+  * <a href="http://derekeder.com/searchable_map_template/">Searchable Map Template</a>, by Derek Eder<br>Map template that allows you to easily create:
+    * Address search (with variable radius)
+    * Geolocation (find me!)
+    * and more!
 
 = Libraries =
