@@ -9,7 +9,7 @@ We’re looking for projects that act as either a tool for using Fusion Tables o
 To join the project, follow these steps:
 
   # Sign the [http://code.google.com/legal/individual-cla-v1.0.html Google CLA] - scroll down for the easy to sign digital version, no faxing necessary.
-  # Email the Fusion Tables team (googletables-feedback+kathryn@google.com) with links to code you've developed, and a brief paragraph about why you'd like to contribute to the library.
+  # Email the Fusion Tables team (googletables-feedback@google.com) with links to code you've developed, and a brief paragraph about why you'd like to contribute to the library.
   # Wait for us to respond that you've been added to the project (or that we need more info).
   # If you haven't used SVN or a versioning system in the past, read up on SVN.
   # Add information about yourself to the DeveloperBios page.
